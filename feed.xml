@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed>
+	    <site>
+	      <title><![CDATA[Deal Drop News]]></title>
+	      <link><![CDATA[mailto:darren@dealdrop.io]]></link>
+	      <icon><![CDATA[http://dealdrop.io/sites/getdealdrop.com/files/icon_72x72.png]]></icon>
+	      <id>dealdrop-news-551259584</id>
+	      <feed_id>dealdrop-news</feed_id>
+	      <item>
+	      	<site_title><![CDATA[Deal Drop News]]></site_title>
+	        <title><![CDATA[Deal Drop is closing down]]></title>
+	        <subtitle><![CDATA[]]></subtitle>
+	        <teaser><![CDATA[]]></teaser>
+	        <description>
+            <![CDATA[
+              <div style="padding-bottom: 80px;">
+               <html><head><title>Deal Drop is closing down</title><style>a {text-decoration: none; color: green;}</style></head><body><p>So Long, and Thanks for All the Fish</p>
+<p><a href="mailto:darren@dealdrop.io">darren@dealdrop.io</a></p></body></html>
+              </div>
+             </div>
+            ]]>
+          </description>
+	        <plain_description><![CDATA[Deal Drop is closing downSo Long, and Thanks for All the Fish
+darren@dealdrop.io]]></plain_description>
+	        <image><![CDATA[http://getdealdrop.appspot.com/a/news/server/dolphin.jpg?url=https%3A%2F%2Fwww.dealdrop.io%2Fserver%2Fdolphin.jpg&size=300x300%3E]]></image>
+	        <large_image><![CDATA[http://getdealdrop.appspot.com/a/news-xlarge/server/dolphin.jpg?url=https%3A%2F%2Fwww.dealdrop.io%2Fserver%2Fdolphin.jpg&size=1200x800%3E]]></large_image>
+	        <link><![CDATA[mailto:darren@dealdrop.io]]></link>
+          <buy_button_text>Deal Drop News</buy_button_text>
+	        <purchaselink><![CDATA[mailto:darren@dealdrop.io]]></purchaselink>
+	        <sharelink>http://dealdrop.io/l/dealdrop-news-551259584</sharelink>
+	        <price><![CDATA[]]></price>
+	        <shipping></shipping>
+	        <soldout>false</soldout>
+	        <wootoff>false</wootoff>
+          <category><![CDATA[Other]]></category>
+	        <date>2018-11-31 04:01:25</date>
+	        <new_time>2018-11-31 20:37:49</new_time>
+	        <is_tapzilla>0</is_tapzilla>
+          <weight>0</weight>
+          <promo_weight>1</promo_weight>
+	      </item>
+	    </site>
+</feed>
